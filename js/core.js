@@ -6,8 +6,8 @@ window.onload = function() {
     let title = 'Nebuland';
 
     //Server Ip (counter)
-    var serverIp = 'nebuland.net';
-    var serverIpPort = 25565;
+    var serverIp = 'nebuland.net:25578';
+    var serverIpPort = 25578;
 
     //Banner image (url) 
     var bannerTop = 'https://imgur.com/fgkqK3e.png';
